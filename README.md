@@ -1,2 +1,7 @@
-Python coding challenge
-An Introduction to Python Programming Language
+
+
+Python Language
+
+	==================
+
+		~ Python Scripting / Coding 
